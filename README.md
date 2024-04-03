@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EX: 2: Fitting Poisson  distribution
 # NAME : S.Sanjay Balaji
 # REGISTER NUMBER : 212223240149
 # Aim : 
